@@ -8,7 +8,7 @@
 [Prompt for Logo Generation](Docs/Android_App_Logo_Design.pdf)
 
 ### Output:
-![Android app logo generation](./images/App_logo_design.PNG)
+![Android app logo generation](./images/App_logo_design.png)
 
 ---
 ## 2. Task : Generate Profile Picture
@@ -18,7 +18,7 @@
 [Prompt for Profile picture Generation](Docs/AI_Image_Generation_Prompt.pdf)
 
 ### Output:
-![Android app logo generation](./images/Profile_photo.PNG)
+![Android app logo generation](./images/Profile_photo.png)
 
 ---
 ## 3. Task : Product photo
@@ -28,7 +28,7 @@
 [Prompt for Profile picture Generation](Docs/Product_photo_Generation_Prompt.pdf)
 
 ### Output:
-![Android app logo generation](./images/Product_photo.png)
+![Android app logo generation](./images/product_photo.png)
 
 ---
 ## 4. Task : Wallpaper photo 
@@ -38,7 +38,7 @@
 [Prompt for Profile picture Generation](Docs/Himalayan_Yoga_Retreat_Wallpaper.pdf)
 
 ### Output:
-![Android app logo generation](./images/Wallpaper.PNG)
+![Android app logo generation](./images/Wallpaper.png)
 
 ---
 
