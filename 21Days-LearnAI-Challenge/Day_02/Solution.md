@@ -28,7 +28,7 @@
 [Prompt for Profile picture Generation](Docs/Product_photo_Generation_Prompt.pdf)
 
 ### Output:
-![Android app logo generation](images/Product_photo.PNG)
+![Android app logo generation](.images/Product_photo.png)
 
 ---
 ## 4. Task : Wallpaper photo 
