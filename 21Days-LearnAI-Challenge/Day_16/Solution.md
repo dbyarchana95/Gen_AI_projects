@@ -17,6 +17,6 @@ Swipe Up / DM to Order
 ---
 
 ### Output:
-![Handmade_Business](images/Handmade_with_Love_Boho_Craft_Studio.PNG)
+![Handmade_Business](images/Handmade_with_Love_Boho_Craft_Studio.png)
 ---
 
