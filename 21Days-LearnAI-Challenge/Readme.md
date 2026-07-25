@@ -19,9 +19,9 @@ Every day includes:
 ##  Certificate
 
 Successfully completed the 21 Days AI Learning Challenge.
-![LearnAI Challenge](.images/certification_AI.png)
+![LearnAI Challenge](./images/certification_AI.png)
 
-![LearnAI Challenge](.images/21days_challenge.png)
+![LearnAI Challenge](./images/21days_challenge.png)
 ---
 
 ## Skills Learned
