@@ -86,6 +86,6 @@ A modern, affordable, and health-focused restaurant menu featuring nutritious ve
 ### Output:
 [Cafe_menu_card](Docs/Green_Bowl_Cafe_Menu.pdf)
 
-![Cafe_menu_card](images/Green_Bowl_Cafe_Menu_QR.PNG)
+![Cafe_menu_card](images/Green_Bowl_Cafe_Menu_QR.png)
 ---
 
